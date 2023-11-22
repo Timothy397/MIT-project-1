@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700643487 source:c:\users\opeyemi\documents\c++\mit project\main.cpp
+	<iostream>
+	<list>
+
